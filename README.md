@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 * 📝 Open Source Contributor
 
-* 🚀 Love towards Rocket Science Never ends
+* ⚽ Love towards Football Never ends
 
 ## 
 
