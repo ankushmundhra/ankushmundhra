@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ankushmundhra/ankushmundhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +22,11 @@ Here are some ideas to get you started:
 
 * 📱 Android Developer
 
+* 🔭 I’m currently interning at [RevMeUp](https://play.google.com/store/apps/details?id=com.revmeup.shashagarwal.mysqldemo&hl=en_US)
+
 * 🤓 I try to design things when no one's looking
 
-* 😌 Co-Founder of strix.co.in
+* 😌 Co-Founder of [Strix](http://strix.co.in/)
 
 * 📝 Open Source Contributor
 
