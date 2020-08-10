@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 * 📝 Open Source Contributor
 
-* ⚽ Love towards Football Never ends
+* ⚽ Love towards Football never ends
 
 ## 
 
