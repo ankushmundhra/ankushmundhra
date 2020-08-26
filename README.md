@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 * 📱 Android Developer
 
-* 🔭 I’m currently interning at [RevMeUp](https://play.google.com/store/apps/details?id=com.revmeup.shashagarwal.mysqldemo&hl=en_US)
+* 🔭 Open to Work
 
 * 🤓 I try to design things when no one's looking
 
