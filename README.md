@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ankush&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 
-# A Passionate Android Developer 🚀 
+### A Passionate Android Developer 🚀 
 
-## About Me 🤷🏻‍♂️
+### About Me 🤷🏻‍♂️
 
 * 📱 Android Developer
 
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 * ⚽ Love towards Football never ends
 
-## 
+### 
 
 
-## Reach me via 👇
+### Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankush9040/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/ankushmundhra15)
