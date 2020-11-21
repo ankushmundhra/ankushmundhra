@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 * 🤓 I try to design things when no one's looking
 
-* 😌 Co-Founder of [Strix](http://strix.co.in/)
-
 * 📝 Open Source Contributor
 
 * ⚽ Love towards Football never ends
